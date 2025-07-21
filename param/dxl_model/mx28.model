@@ -58,31 +58,7 @@ Address	Size	Data Name
 140	4	Position Trajectory
 144	2	Present Input Voltage
 146	1	Present Temperature
-168	2	Indirect Address Write 1
-224	1	Indirect Data Write 1
-578	2	Indirect Address Read 1
-634	1	Indirect Data Read 1
-170	2	Indirect Address Write 2
-172	2	Indirect Address Write 3
-174	2	Indirect Address Write 4
-225	1	Indirect Data Write 2
-226	1	Indirect Data Write 3
-227	1	Indirect Data Write 4
-580	2	Indirect Address Read 2
-582	2	Indirect Address Read 3
-584	2	Indirect Address Read 4
-586	2	Indirect Address Read 5
-588	2	Indirect Address Read 6
-590	2	Indirect Address Read 7
-592	2	Indirect Address Read 8
-594	2	Indirect Address Read 9
-596	2	Indirect Address Read 10
-635	1	Indirect Data Read 2
-636	1	Indirect Data Read 3
-637	1	Indirect Data Read 4
-638	1	Indirect Data Read 5
-639	1	Indirect Data Read 6
-640	1	Indirect Data Read 7
-641	1	Indirect Data Read 8
-642	1	Indirect Data Read 9
-643	1	Indirect Data Read 10
+168	2	Indirect Address Write
+224	1	Indirect Data Write
+578	2	Indirect Address Read
+634	1	Indirect Data Read
